@@ -4,6 +4,9 @@ This is the Music Store Catelog backend with the CRUD functionality for album / 
 
 Heroku Deployment Link are below (with the sample id for each)
 
+https://music-store-recommend-2022.herokuapp.com/
+
+
 
 https://music-store-recommend-2022.herokuapp.com/album
 
