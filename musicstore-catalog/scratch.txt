@@ -1,0 +1,21 @@
+
+SPRING_DATASOURCE_URL           	
+SPRING_DATASOURCE_USERNAME		 
+SPRING_DATASOURCE_PASSWORD		
+
+
+Heroku Path
+
+https://music-store-catelog-2022.herokuapp.com/
+
+https://music-store-catelog-2022.herokuapp.com/album
+https://music-store-catelog-2022.herokuapp.com/album/1
+
+https://music-store-catelog-2022.herokuapp.com/artist
+https://music-store-catelog-2022.herokuapp.com/artist/1
+
+https://music-store-catelog-2022.herokuapp.com/label
+https://music-store-catelog-2022.herokuapp.com/label/1
+
+https://music-store-catelog-2022.herokuapp.com/track
+https://music-store-catelog-2022.herokuapp.com/track/1
