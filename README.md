@@ -1,6 +1,6 @@
 # M7-Challenge-Nguyen-Tri-Music-Store-Catelog
 
-This is the Music Store Catelog backend with the CRUD functionality for album artist label and track.
+This is the Music Store Catelog backend with the CRUD functionality for album / artist / label / track.
 
 Heroku Deployment Link are below (with the sample id for each)
 
