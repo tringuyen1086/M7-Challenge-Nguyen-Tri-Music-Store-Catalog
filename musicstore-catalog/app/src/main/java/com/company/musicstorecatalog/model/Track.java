@@ -19,6 +19,8 @@ public class Track {
     @NotNull
     @Column(name="album_id")
     private Integer albumId;
+
+    @NotNull
     private String title;
 
     @NotNull

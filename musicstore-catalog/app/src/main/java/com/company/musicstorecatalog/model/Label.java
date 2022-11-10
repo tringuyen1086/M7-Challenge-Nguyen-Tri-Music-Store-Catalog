@@ -3,6 +3,7 @@ package com.company.musicstorecatalog.model;
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 
 import javax.persistence.*;
+import javax.validation.constraints.NotNull;
 import java.util.Objects;
 
 @Entity
@@ -14,7 +15,10 @@ public class Label {
     @GeneratedValue(strategy =  GenerationType.IDENTITY)
     @Column(name = "label_id")
     private Integer id;
+
+    @NotNull
     private String name;
+
     private String website;
 
     public Label(){

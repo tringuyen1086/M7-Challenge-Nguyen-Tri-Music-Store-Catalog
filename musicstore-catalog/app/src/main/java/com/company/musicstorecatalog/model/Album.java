@@ -30,6 +30,7 @@ public class Album implements Serializable {
     @Column(name="artist_id")
     private Integer artistId;
 
+    @NotNull
     @Column(name = "release_date")
     @JsonSerialize(using = LocalDateSerializer.class)
     @JsonDeserialize(using = LocalDateDeserializer.class)
@@ -40,6 +41,7 @@ public class Album implements Serializable {
     @Column(name="label_id")
     private Integer labelId;
 
+    @NotNull
     @Column(name = "list_price")
     private double listPrice;
 
